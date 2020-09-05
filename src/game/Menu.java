@@ -35,19 +35,19 @@ public class Menu {
 		}
 		System.out.println();
 		printResult(1,  "1: Ettor       ");
-		printResult(2,  "2: Tvåor       ");
+		printResult(2,  "2: Tvaor       ");
 		printResult(3,  "3: Treor       ");
 		printResult(4,  "4: Fyror       ");
 		printResult(5,  "5: Femor       ");
 		printResult(6,  "6: Sexor       ");
 		printResult(0,  "Bonus          ");
 		printResult(7,  "7: Par         ");
-		printResult(8,  "8: Tvåpar      ");
+		printResult(8,  "8: Tvapar      ");
 		printResult(9,  "9: Triss       ");
-		printResult(10,  "10: Fyrtal      ");
+		printResult(10,  "10: Fyrtal    ");
 		printResult(11, "11: Liten Stege");
 		printResult(12, "12: Stor Stege ");
-		printResult(13, "13: Kåk        ");
+		printResult(13, "13: Kak        ");
 		printResult(14, "14: Chans      ");
 		printResult(15, "15: Yatzy      ");
 	}
