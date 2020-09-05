@@ -26,7 +26,7 @@ public class Score {
 	 * 10 fyrtal
 	 * 11 liten stege
 	 * 12 stor steg
-	 * 13 kåk
+	 * 13 kak
 	 * 14 chans
 	 * 15 yatzy  
 	 */
