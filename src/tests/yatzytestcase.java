@@ -3,10 +3,25 @@ package tests;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.Assert;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import game.*;
 
 class yatzytestcase {
+	
+	@BeforeEach
+	void setUp() throws Exception {
+	}
+
+	@AfterEach
+	void tearDown() throws Exception {
+	}
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
 
 	@Test
 	public void testScoreOnes() {
